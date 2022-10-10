@@ -1,1 +1,2 @@
 # odin-recipes
+A project to create a page for recipes. In this project, I applied my knowledge to a simple html page with different types of headings, text in paragraphs, ordered and unordered lists, links, and put in images.
