@@ -1,0 +1,18 @@
+body {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+h1 {
+    color: #393979;
+    font-weight: 800px;
+    background-color: yellow;
+}
+
+h1, h4, img {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
